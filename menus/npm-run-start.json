@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Launch npm run start command from current working project",
+        "command": "npm-run-start:npmRunStart"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "npm-run-start",
+          "submenu": [
+            {
+              "label": "Launch npm run start command from current working project",
+              "command": "npm-run-start:npmRunStart"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "name": "npm-run-start",
+  "main": "./lib/npm-run-start",
+  "version": "0.5.0",
+  "description": "Launch npm start command from current working project",
+  "keywords": [],
+  "activationCommands": {
+    "atom-workspace": "npm-run-start:npmRunStart"
+  },
+  "repository": "https://github.com/APKIOSK-Sacha/npm-run-start",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {}
+}
