@@ -1,7 +1,7 @@
 {
   "name": "npm-run-start",
   "main": "./lib/npm-run-start",
-  "version": "0.7.0",
+  "version": "0.8.0",
   "description": "Launch npm run start command from current working project",
   "keywords": [],
   "activationCommands": {
